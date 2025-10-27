@@ -1,10 +1,10 @@
-# COVID-19 Pandemic Analysis: Excess Deaths and Vaccination Impact
+COVID-19 Pandemic Analysis: Excess Deaths and Vaccination Impact
 
-## 📋 Project Overview
+Project Overview
 
 This project analyzes the relationship between COVID-19 cases, excess deaths, and vaccination campaigns across 34 countries from 2020-2023. By merging emergency department (ED) excess mortality data with comprehensive COVID-19 metrics, we explore how vaccination campaigns and pandemic waves affected mortality rates globally.
 
-## 🎯 Objectives
+ Objectives
 
 - Examine the correlation between COVID-19 metrics and excess deaths
 - Evaluate vaccination impact on reducing excess mortality
@@ -21,7 +21,7 @@ The initial dataset is provided in `archive.zip` which contains:
 ### 1. COVID-19 Data (`covid.csv`)
 - Source: https://www.kaggle.com/datasets/patricklford/covid-19
 - Size: ~373,495 records
-- Features**: 
+- Features: 
   - Daily cases and deaths
   - Testing metrics
   - Hospitalization data
@@ -33,11 +33,11 @@ The initial dataset is provided in `archive.zip` which contains:
 ### 2. Excess Deaths Data (`ED.csv`)
 - Source: https://www.kaggle.com/datasets/patricklford/covid-19
 - Size: ~135,628 records
-- Features**:
+- Features:
   - Weekly excess deaths by country
   - Demographic breakdowns (age, gender)
   - Multiple death causes
-- Coverage**: 34 OECD member countries
+- Coverage: 34 OECD member countries
 
 ## 🔧 Project Structure
 
