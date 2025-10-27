@@ -6,9 +6,9 @@ This project analyzes the relationship between COVID-19 cases, excess deaths, an
 
 ## 🎯 Objectives
 
-- Examine the correlation** between COVID-19 metrics and excess deaths
+- Examine the correlation between COVID-19 metrics and excess deaths
 - Evaluate vaccination impact on reducing excess mortality
-- Identify pandemic waves** and temporal patterns in excess deaths
+- Identify pandemic waves and temporal patterns in excess deaths
 - Compare pre-vaccine vs post-vaccine periods** to assess vaccine effectiveness
 - Visualize trends** across different countries and time periods
 
